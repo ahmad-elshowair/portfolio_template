@@ -1,0 +1,24 @@
+﻿/**** Start Azure them ***/
+@import url("https://fonts.googleapis.com/css?family=Indie+Flower");
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.carousel-indicators .active,
+.option-box .color-tool {background-color: #007FFF;}
+
+
+.about h1 span,
+.testimoial span,
+.ultimate-footer h3,
+.ultimate-footer .copy-right span {color: #007FFF;}
+
+.carousel-indicators li,
+.option-box .color-option,
+.testimoial .carousel-indicators li.active {border: 3px solid #007FFF}
+
+.dropdown-menu {border-top: 2px solid #007FFF;}
+
+body {font-family: 'Indie Flower', cursive}
+/**** End Azure them ***/

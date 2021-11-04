@@ -1,0 +1,31 @@
+﻿@import url("https://fonts.googleapis.com/css?family=Ubuntu");
+/**** Start Defualt them ***/
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.carousel-indicators .active,
+.option-box .color-tool {background-color: #CC5500;}
+
+.about h1 span,
+.testimoial span,
+.ultimate-footer h3,
+.ultimate-footer .copy-right span {
+    color: #CC5500;
+}
+
+.carousel-indicators li,
+.option-box .color-option,
+.testimoial .carousel-indicators li.active {border: 3px solid #CC5500}
+
+.dropdown-menu {border-top: 2px solid #CC5500;}
+
+body {font-family: 'Ubuntu', sans-serif}
+
+
+
+
+
+
+/**** End Defualt them ***/

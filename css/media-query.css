@@ -1,0 +1,52 @@
+﻿
+/* Start Moblie And Tablet screen */
+@media (max-width:767px){
+    .subscribe .form-control {
+        border-radius: 5px;
+        margin: 10px auto;
+        width: 400px;
+    }
+
+    .subscribe button {
+        border-radius: 5px;
+    }
+
+    .navbar-inverse .navbar-nav > li > a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .navbar-fixed-top .navbar-collapse,
+    .navbar-fixed-bottom .navbar-collapse {
+        max-height: -webkit-fill-available;
+    }
+
+    .ultimate-footer .image-work {
+        text-align: center;
+    }
+}
+/* End Moblie And Tablet screen */
+
+/*Start Small Screen*/
+@media (min-width:768px) and (max-width: 991px){
+    
+}
+/*End Small Screen*/
+
+/*Start Mediua Screen*/
+@media(min-width:992px) and (max-width:1199px){
+    .ultimate-footer .image-work {
+        text-align: center;
+    }
+
+    .ultimate-footer .img-thumbnail{
+        margin-right: 10px;
+    }
+}
+/*End Mediua Screen*/
+
+/*Start Lagre Screen*/
+@media (min-width: 1200px){
+
+}
+/*End Lagre Screen*/

@@ -1,0 +1,112 @@
+html {
+  behavior: "smooth";
+}
+/* Start style page about */
+.breadcrumb-holder {
+  background-color: #f5f5f5;
+}
+
+.breadcrumb-holder .breadcrumb {
+  margin: 0;
+  padding: 10px 0;
+}
+
+.about-us {
+  padding: 70px 0;
+}
+
+.about-us h1 {
+  font-size: 40px;
+  font-weight: bold;
+  letter-spacing: -1px;
+  color: crimson;
+}
+
+.about-us hr {
+  width: 50%;
+  margin-bottom: 2%;
+}
+
+.about-us p {
+  padding: 10px;
+  color: crimson;
+}
+
+.about-feature {
+  padding: 50px 0;
+}
+
+.about-feature {
+  padding: 50px 0;
+}
+.about-feature h3,
+.about-feature p {
+  color: crimson;
+}
+
+.about-feature p {
+  margin-bottom: 50px;
+}
+
+.about-mannager {
+  background-color: #fcf8e3;
+  padding-top: 40px;
+}
+
+.about-mannager h2 {
+  color: crimson;
+  letter-spacing: -2px;
+  font-size: 45px;
+}
+
+.about-mannager p {
+  padding: 15px;
+}
+
+.about-mannager a {
+  display: inline-block;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+/* Start style page about */
+
+/* Starting style of page FAQ */
+
+.faq {
+  padding: 40px 10px;
+}
+
+.faq h1 {
+  font-size: 60px;
+  color: crimson;
+  padding: 15px;
+}
+
+.faq hr {
+  width: 50%;
+}
+
+.faq p {
+  color: crimson;
+  margin-bottom: 40px;
+}
+
+.panel-group .panel-heading {
+  padding: 15px 15px;
+}
+
+.panel-group .panel-heading a:after {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f106";
+  float: right;
+  color: brown;
+}
+
+.panel-group .panel-heading a.collapsed:after {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f107";
+  color: brown;
+}
+/* Endind style of page FAQ */
