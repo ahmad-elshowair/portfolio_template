@@ -13,3 +13,6 @@
 - other CSS libararies like: 
   * wow.css
   * animate.css
+
+
+**_add the option box technique to change font color and font family_**
